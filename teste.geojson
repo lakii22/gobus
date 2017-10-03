@@ -1,0 +1,34 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.636781,
+                    -22.756350
+                ]
+            },
+            "properties": {
+                "name": "Master Moveis",
+                "address": "exemplo master"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -47.637072,
+                    -22.757103
+                ]
+            },
+            "properties": {
+                "name": "Vo chico agro pet",
+                "address": "exemplo agro pet"
+            }
+        }
+]
+}
+
